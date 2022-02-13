@@ -93,7 +93,8 @@ Medulla oblongata - Consious control of skeletal muscles balance cooordination r
   - smooth muscle contraction
 
 ## Monoamines 
-- **Norepinepherine (NE)** Found mainlu in 3 areas of the brain; the locus coeruleous, the pons and reticular formation Main Role:  
+- **Norepinepherine (NE)** Found mainly in 3 areas of the brain; the locus coeruleous, the pons and reticular formation Main Role:  
   - Attention, alertness, arousal
   - sleep/wake cycle
   - regulating mood/anxiety
+
