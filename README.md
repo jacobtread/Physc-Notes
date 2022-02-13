@@ -112,3 +112,16 @@ Believed to be one of the great influences on behaviour. COmplex neurotrasmitter
   - Low Serotonin associated with agression, suicide, implusive eating, anxiety and low mood
   - Regulates general activity of the CNS, particularly sleep.
   - Delusions, hallucinations and some negative symptoms of schizophrenia
+
+# Amino Acids
+- **Glutamate** 
+  - Found in all cells
+  - controls opening of ion channels
+  - blocking glutamate produces psychotic sympotoms
+  - Over exposure to glutamate causes cell death
+- **GABA (Gamma-aminobutyric acid)**
+  - Only found in CNS
+  - Inhibitory neurotransmitter
+  - controls excitatory neurotransmitters
+  - Implicated in anxierty disorders
+  
