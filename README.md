@@ -98,3 +98,17 @@ Medulla oblongata - Consious control of skeletal muscles balance cooordination r
   - sleep/wake cycle
   - regulating mood/anxiety
 
+## Dopamine (DA)
+Almost a million nerve cells in the brain contain dopamine. Role in;
+  - Complex movement
+  - Cognition
+  - motor control
+  - emotional responses such as euphoria or pleasure
+Bewer antipsychotic medication focus on dopaminergic pathways in the brain. Lessening EPSE's
+
+# Serotonin (5HT)
+Believed to be one of the great influences on behaviour. COmplex neurotrasmitter. Suprissingly only 2% of the serotonin is found in CNS. Roles include
+  - Vasoconstriction, gastrointestinal regulation.
+  - Low Serotonin associated with agression, suicide, implusive eating, anxiety and low mood
+  - Regulates general activity of the CNS, particularly sleep.
+  - Delusions, hallucinations and some negative symptoms of schizophrenia
