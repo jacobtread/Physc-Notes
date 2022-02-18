@@ -124,4 +124,16 @@ Believed to be one of the great influences on behaviour. COmplex neurotrasmitter
   - Inhibitory neurotransmitter
   - controls excitatory neurotransmitters
   - Implicated in anxierty disorders
-  
+
+# Nature vs Nurture
+
+Nature
+- Rooots of approach
+  Biology / Evolution
+- Cases "Genetic determinism" neurochemical imbalances 
+
+
+# Freud Discovers the unconscious 
+- Studies in hysteria, published by Freud and Breuer 
+  - Case of Anna O. and use of hypnosis in treating hysteria
+- **Free association**: Description of hidden memories by patients that seemed related to the causes and cure of hysterical symptoms 
