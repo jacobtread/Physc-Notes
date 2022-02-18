@@ -137,3 +137,12 @@ Nature
 - Studies in hysteria, published by Freud and Breuer 
   - Case of Anna O. and use of hypnosis in treating hysteria
 - **Free association**: Description of hidden memories by patients that seemed related to the causes and cure of hysterical symptoms 
+
+- Early traumatic sexual experiences were responsible for hysterical symptoms expressed by adult patients
+- Vienna Psychoanalytic Society (Formed by Freud and his followers)
+  
+# Topographic model
+- Personality is divided into different levels of awareness
+  - **Conscious**: Thoughts a person is currenly aware of
+  - **Preconscious**: Retrievable information
+  - **Unconscious**: Thoughts that cannot be easily brought into awareness (except under extreme situations)
