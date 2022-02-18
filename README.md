@@ -146,3 +146,13 @@ Nature
   - **Conscious**: Thoughts a person is currenly aware of
   - **Preconscious**: Retrievable information
   - **Unconscious**: Thoughts that cannot be easily brought into awareness (except under extreme situations)
+
+# Structural model
+- Divides personality into the id, the ego, and the superego
+- **Id**: Personality structure at birth 
+  - Actions are based on the pleasure principle and wish fulfillment
+- **Ego**: Satisfies id impulses, but takes into consideration the realities of the world
+  - Actions are based on reality principle
+- **Superego**: Represents society's values and standards
+  - Provides ideals to determine if a behavior is virtuous
+  - Powerful superego leads to moral anxiety
